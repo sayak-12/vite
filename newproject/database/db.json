@@ -1,0 +1,8 @@
+{
+    "blogs": [
+        {"id":1,"title": "My first Blog", "author":"sayak", "desc": "lorem ipsum dolor sit amet, consectetur adipiscing elit"},
+        {"id":2,"title": "My Second Blogs", "author":"sayak", "desc": "lorem ipsum dolor sit amet, consectetur adipiscing elit"},
+        {"id":3,"title": "sayak12's first Blog", "author":"sayak12", "desc": "lorem ipsum dolor sit amet, consectetur adipiscing elit"}
+
+    ]
+}
