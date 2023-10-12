@@ -1,8 +1,10 @@
+/* eslint-disable react/prop-types */
 import './nav.css';
 
-const Navbar = () => {
+const Navbar = (props) => {
   return (
       <nav>
+        <h2>{props.heading}</h2>
         <div className="menuitem">Home</div>
         <div className="menuitem">About</div>
         <div className="menuitem">Works</div>
